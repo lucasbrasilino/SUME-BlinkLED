@@ -11,7 +11,7 @@ LEDs blinking pattern.
 ## Compiling
 The design was tested and synthesized with Vivado 2014.4 and 2015.4. Just do:
 
-    $ source /opt/Xilinx/SDK/2015.4/settings64.sh
+    $ source /opt/Xilinx/Vivado/2015.4/settings64.sh
     $ make
 
 The bitfiles will be saved on `bitfiles` directory.
