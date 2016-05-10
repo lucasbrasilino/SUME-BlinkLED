@@ -2,7 +2,7 @@
 NetFPGA-SUME blinking LEDs design
 
 ## Introduction
-This design was created to help some programming issues on NetFPGA-SUME board.
+This design was created to help with some programming issues on NetFPGA-SUME board.
 Our boards are installed in server cluster, that are mounted in a 48U's rack.
 It blinks the SFP/Ethernet LEDs in two different patterns, so it is easy to 
 check if the boards were programmed by standing behind the rack and watch the
